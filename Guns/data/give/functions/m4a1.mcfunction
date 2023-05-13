@@ -1,0 +1,1 @@
+give @p carrot_on_a_stick{display:{Name:'{"text":"M4A1"}'},CustomModelData:1} 1

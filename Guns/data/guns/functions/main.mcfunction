@@ -1,0 +1,2 @@
+execute at @a[scores={sneak=1..}] run summon area_effect_cloud ~ ~ ~ {Particle:"ash",Radius:0.1f,Duration:15,Effects:[{Id:2b,Amplifier:4b,Duration:2,ShowParticles:0b}]}
+scoreboard players set @a sneak 0
