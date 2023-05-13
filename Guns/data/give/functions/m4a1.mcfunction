@@ -1,1 +1,1 @@
-give @p carrot_on_a_stick{display:{Name:'{"text":"M4A1"}'},CustomModelData:1} 1
+give @p carrot_on_a_stick{display:{Name:'{"text":"M4A1","color":"gold","italic":false}'},CustomModelData:1,gun:1,m4a1:1} 1
